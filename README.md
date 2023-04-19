@@ -2,7 +2,7 @@
 LightHouse Labs web-flex lecture  on AJAX
 
 ## Topics
-- [x] SPA vrs SSR
+- [ ] SPA vrs SSR
 - [ ] JSON, XML...
 - [ ] what is AJAX
 - [ ] how do we use it
@@ -11,14 +11,18 @@ LightHouse Labs web-flex lecture  on AJAX
 
 ## Pros/cons of SPA
 - Pros
-  - could have a better UX
-  - seamless interface.
-- Cons
-  - Lots and lots of JS
-  - Intinial load times are bad
+  - can be a better UX. more features faster and reactive without leaving the page 
+  - seamless interface
+- Cons 
+  - initial loads "can" be worse, lots of javascript
+  - loose browser functionality ( back, forward, refresh)
+  - SEO can be worse
 
 ## How to get data
--
-##
-### Questions
+- Http request
+ - transfer data as JSON on the body of the request
+ - can be sent as url param or query string paramaters
+ 
+## what is AJAX
+### Questions (previous or current work)
 - 
