@@ -1,6 +1,6 @@
 # AJAX-lecture
 LightHouse Labs web-flex lecture  on AJAX
-[repo] | [Video](https://vimeo.com/861484797/89b17c3cff?share=copy)
+[Repo](https://github.com/ermurray/AJAX-lecture/tree/july10-w9) | [Video](https://vimeo.com/861484797/89b17c3cff?share=copy)
 
 ## Topics
 - [ ] SPA vrs SSR
